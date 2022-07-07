@@ -1,0 +1,16 @@
+========== HEADER ==========
+.nav__logo
+Juice<span>ables</span>
+
+========== HOME ==========
+.home__title
+Get Fresh
+<span>Juiceables</span>
+Everyday
+
+.home__description
+Starting at $360 per month, get <br>
+those benefits and more.
+
+.home__button
+Details
